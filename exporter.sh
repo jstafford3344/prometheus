@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 SERVICE_PATH="/etc/systemd/system/node_exporter.service"
 
