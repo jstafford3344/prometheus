@@ -2,7 +2,7 @@
 
 SERVICE_PATH="/etc/systemd/system/node_exporter.service"
 
-wget https://github.com/node_exporter/node_exporter/releases/download/v1.9.1/node_exporter-1.9.1.linux-amd64.tar.gz
+wget https://github.com/prometheus/node_exporter/releases/download/v1.9.1/node_exporter-1.9.1.linux-amd64.tar.gz
 tar -xvf node_exporter-1.9.1.linux-amd64.tar.gz
 cd node_exporter-1.9.1.linux-amd64/
 
